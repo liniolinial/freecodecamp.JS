@@ -1,4 +1,4 @@
-//calculate the sum of numbers within an array
+//4. calculate the sum of numbers within an array
 //#1
 // export function sumOne(){
 //     for(let i = -10; i<= 10; i++){
@@ -12,7 +12,7 @@
 //     console.log(negative);
 // }
 
-//#2
+//4. -#2 positive and negative numbers
 function sum(){
     let negative = [];
     let positive = [];
@@ -31,3 +31,4 @@ function sum(){
     console.log(negativeSum);
     console.log(positiveSum);
 }
+sum();

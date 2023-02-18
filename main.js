@@ -1,14 +1,6 @@
-import {
-    converter,
-    sum,
-    getCount
-} from './third.js';
-
-// // //print all even numbers from 0-10
+// 1. print all even numbers from 0-10
 for(let i = 0; i< 10; i++){
     if(i % 2 === 0){
         console.log(i);
     }
 }
-
-//Sort an array from lowest to highest
